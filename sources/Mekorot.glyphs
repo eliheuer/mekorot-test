@@ -31236,7 +31236,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2021 The Mekorot Project Authors (https://github.com/googlefonts/mekorot)";
+value = "Copyright 2024 The Mekorot Project Authors (https://github.com/googlefonts/mekorot)";
 }
 );
 },
@@ -31264,7 +31264,7 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 },
 {
 key = licenseURL;
-value = "https://scripts.sil.org/OFL";
+value = "https://openfontlicense.org";
 },
 {
 key = manufacturers;
